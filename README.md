@@ -30,5 +30,6 @@ set inbound rules-> all traffic, source-> anywhere ipv4
 allow access to this new security group from actions
 accessible at http://ec2-3-111-57-141.ap-south-1.compute.amazonaws.com:8080/ which is in "{public ipv4 DNs}/":8080
 
-## Source 
-<a href="https://www.youtube.com/watch?v=-Wtsdigvm3c">Unfold Data Science</a>
+## Resources to learn AWS for data scientists 
+<a href="https://www.youtube.com/playlist?list=PLmPJQXJiMoUWFW2JxRSAfhcsQ0Cr9qbv-">Unfold Data Science</a>
+<a href="https://www.youtube.com/playlist?list=PLffk0pYd4qYs8F6CUVt8fL17un72ZAudV">DataSpoof</a>
